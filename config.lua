@@ -148,7 +148,9 @@ lvim.builtin.treesitter.highlight.enabled = true
 --     },
 -- }
 lvim.plugins = {
-  "shaunsingh/nord.nvim"
+  "shaunsingh/nord.nvim",
+  "terryma/vim-multiple-cursors",
+
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
